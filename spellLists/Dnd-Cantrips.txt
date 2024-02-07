@@ -1,0 +1,22 @@
+Acid Splash|60 feet|5-foot cube|Dexterity|1d6 acid damage|Instantaneous|False|None
+Booming Blade|5 feet|Single target|None|1d8 thunder damage|1 round|False|1d8 extra damage if the target moves
+Chill Touch|120 feet|Single target|None|1d8 necrotic damage|1 round|False|Target can't regain hit points until start of your next turn
+Create Bonfire|60 feet|5-foot cube|Dexterity|1d8 fire damage|1 minute|True|None
+Eldritch Blast|120 feet|Single target|None|1d10 force damage|Instantaneous|False|None
+Fire Bolt|120 feet|Single target|None|1d10 fire damage|Instantaneous|False|None
+Frostbite|60 feet|Single target|Constitution|1d6 cold damage|1 round|False|Target has disadvantage on next weapon attack roll
+Green-Flame Blade|5 feet|Single target|None|Spellcasting modifier|1 round|False|Can target a second creature within 5ft
+Infestation|30 feet|Single target|Constitution|1d6 poison damage|Instantaneous|False|Target moves 5 feet in random direction
+Lightning Lure|15 feet|Single target|Strength|1d8 lightning damage|Instantaneous|False|Target is pulled 10 feet closer if it fails Strength saving throw
+Mind Sliver|60 feet|Single target|Intelligence|1d6 psychic damage|Instantaneous|False|Target subtracts 1d4 from next saving throw it makes before the end of your next turn
+Poison Spray|10 feet|Single target|Constitution|1d12 poison damage|Instantaneous|False|None
+Produce Flame|Self|10-foot radius|None|1d8 fire damage|10 minutes|True|Hurled up to 30 feet
+Ray of Frost|60 feet|Single target|None|1d8 cold damage|Instantaneous|False|Target's speed is reduced by 10 feet until start of your next turn
+Sacred Flame|60 feet|Single target|Dexterity|1d8 radiant damage|Instantaneous|False|None
+Sapping Sting|Touch|Single target|Constitution|1d4 piercing damage|1 minute|False|Target has disadvantage on next attack roll it makes before the end of your next turn
+Shocking Grasp|Touch|Single target|None|1d8 lightning damage|Instantaneous|False|Target can't take reactions until the start of its next turn
+Thorn Whip|30 feet|Single target|None|1d6 piercing damage|Instantaneous|False|Target is pulled 10 feet closer if it's Large or smaller
+Thunderclap|5 feet|5-foot radius|Constitution|1d6 thunder damage|Instantaneous|False|Audible up to 100 feet away
+Toll the Dead|60 feet|Single target|Wisdom|1d8 necrotic damage|Instantaneous|False|Damage increases to 1d12 if the target is missing hit points
+Vicious Mockery|60 feet|Single target|Wisdom|1d4 psychic damage|Instantaneous|False|Target has disadvantage on next attack roll it makes before the end of its next turn
+Word of Radiance|5 feet|5-foot radius|Constitution|1d6 radiant damage|Instantaneous|False|None

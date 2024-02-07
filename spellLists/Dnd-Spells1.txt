@@ -1,0 +1,23 @@
+Arms of Hadar|10 feet|10-foot radius|None|2d6 necrotic damage|Instantaneous|False|None
+Burning Hands|Self|15-foot cone|Dexterity|3d6 fire damage|Instantaneous|False|None
+Catapult|60 feet|Single target|Dexterity|3d8 bludgeoning|Instantaneous|False|Object flies in a straight line up to 90 feet
+Chaos Bolt|120 feet|Single target|None|2d8 varying damage|Instantaneous|False|Roll additional d8s for extra damage of a different type
+Chromatic Orb|90 feet|Single target|None|3d8 varying damage|Instantaneous|False|Choose damage type: acid, cold, fire, lightning, poison, or thunder
+Dissonant Whispers|60 feet|Single target|Wisdom|3d6 psychic damage|Instantaneous|False|Target must immediately use its reaction if available to move as far as its speed allows
+Earth Tremor|Self|10-foot radius|Dexterity|1d6 bludgeoning damage|Instantaneous|False|Creatures in area must succeed on Dexterity saving throw or prone
+Ensnaring Strike|Self|Single target|Strength|1d6 piercing damage|1 minute|False|Target is restrained by magical vines
+Frost Fingers|60 feet|Single target|Constitution|1d6 cold damage|Instantaneous|False|Target's speed is reduced by 10 feet until start of your next turn
+Guiding Bolt|120 feet|Single target|None|4d6 radiant damage|Instantaneous|False|Next attack roll against the target has advantage
+Hellish Rebuke|60 feet|Single target|Dexterity|2d10 fire damage|Instantaneous|False|Target takes damage on failed Dexterity saving throw
+Ice Knife|60 feet|Single target|Dexterity|1d10 piercing damage|Instantaneous|False|On hit or miss, knife explodes and target and creatures within 5 feet take cold damage
+Inflict Wounds|Touch|Single target|None|3d10 necrotic damage|Instantaneous|False|None
+Jim's Magic Missile|120 feet|Single target|None|1d4 + 1 force damage|Instantaneous|False|Does 5d4 force damage on a critical. Take 1 force damage per missile on a natural one.
+Magic Missile|120 feet|Single target|None|1d4 + 1 force damage|Instantaneous|False|Darts all strike simultaneously and you can direct them to hit one creature or several.
+Ray of Sickness|60 feet|Single target|Constitution|2d8 poison damage|Instantaneous|False|Target has disadvantage on next attack roll it makes before the end of its next turn
+Searing Smite|Self|Single target|Constitution|1d6 fire damage|1 minute|False|Target is on fire, taking extra fire damage
+Tasha's Caustic Brew|30 feet|Single target|Constitution|2d4 acid damage|Instantaneous|False|Target takes additional acid damage at the start of its next turn
+Thunderous Smite|Self|Single target|Strength|2d6 thunder damage|Instantaneous|False|Target is pushed 10 feet away and knocked prone
+Thunderwave|Self|15-foot cube|Constitution|2d8 thunder damage|Instantaneous|False|Creatures in area must succeed on Constitution saving throw or take damage and be pushed 10 feet away
+Witch Bolt|30 feet|Single target|None|1d12 lightning damage|1 minute|True|On each turn, target takes damage without needing additional actions
+Wrathful Smite|Self|Single target|Wisdom|1d6 psychic damage|1 minute|False|Target is frightened until spell ends, can repeat saving throw
+Zephyr Strike|Self|Self|None|1d8 force damage|1 minute|True|Next attack has advantage and grants you 30 feet of additional movement

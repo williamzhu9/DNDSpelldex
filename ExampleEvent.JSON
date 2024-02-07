@@ -1,0 +1,10 @@
+{
+    "USER_NAME": "admin",
+    "PASSWORD": "123",
+    "RDS_HOST": "name.region.rds.amazonaws.com",
+    "DB_NAME": "dbName",
+    "PORT": "port",
+    "SPELL": "Fire Bolt",
+    "LEVEL": 5,
+    "SPELLMOD": 3
+}
